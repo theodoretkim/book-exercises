@@ -6,3 +6,4 @@ Solutions can be found in the `solution` branch.
 
 Ted1
 Ted2
+Ted3
